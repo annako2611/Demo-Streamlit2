@@ -2,7 +2,8 @@
 
 A simple Streamlit app template for you to modify!
 
-[![Open in Streamlit](https://first-demo-streaml.streamlit.app)
+[Open in Streamlit](https://first-demo-stream1.streamlit.app/)
+
 
 ### How to run it on your own machine
 
