@@ -2,7 +2,7 @@
 
 A simple Streamlit app template for you to modify!
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fuzzy-space-spoon-jj79x7wqp6qrcp5x7-8501.app.github.dev//)
+[![Open in Streamlit](https://first-demo-streaml.streamlit.app/)
 
 ### How to run it on your own machine
 
